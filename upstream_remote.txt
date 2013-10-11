@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words.
+When you clone a repository, you set up an upstream remote in order to monitor the original respository that you copied. This way you can pull changes from the original repository. However, you are not able to push to this repository. 
