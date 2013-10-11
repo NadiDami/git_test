@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words.
+'git clone' is a command that you input into your terminal, followed by an HTTPS or SSH link, that enables you to make a local copy of an already existing repository onto your device. 
