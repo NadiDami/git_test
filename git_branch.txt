@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words.
+A branch is a separate work flow, or work track, that originates from either the master branch, or other branches that have been previously created. Having a branch means that you can work as part of a team on an individual project, and not obstruct changes in the larger project. 
